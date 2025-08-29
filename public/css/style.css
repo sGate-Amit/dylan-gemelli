@@ -4230,8 +4230,11 @@ dl.hiw {
 .banner-page > .container{padding-top:10px;
   padding-bottom: 20px;}
 
-.logo-remove[data-astro-cid-ntesnurg]{font-size:25px;font-weight:600;}
-.navbar-toggle{right: 0px;position: absolute;}
+.logo-remove[data-astro-cid-ntesnurg]{font-size:20px;font-weight:600;}
+.navbar-toggle{left: 0px;position: absolute;}
+.navbar-toggle .icon-bar{background: #000;}
+.navbar-main .nav > li:last-child a{border-radius:30px;}
+
 	}
 
 /*# sourceMappingURL=style.css.map */
