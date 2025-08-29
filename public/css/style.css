@@ -4225,6 +4225,11 @@ dl.hiw {
     display: block; }
   .box-event .detail-event {
     float: none;
-    margin-top: 20px; } }
+    margin-top: 20px; } 
+
+.banner-page > .container{padding-top:10px;
+  padding-bottom: 20px;}	
+	
+	}
 
 /*# sourceMappingURL=style.css.map */
