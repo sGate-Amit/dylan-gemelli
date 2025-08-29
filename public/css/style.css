@@ -4235,6 +4235,7 @@ dl.hiw {
 .navbar-toggle .icon-bar{background: #000;}
 .navbar-main .nav > li:last-child a{border-radius:30px;}
 .header-1 .navbar-nav{border-radius:0px;padding:0px 10px 15px 10px;}
+.navbar-main .nav.navbar-right > li{margin-right: 0px;}
 	}
 
 /*# sourceMappingURL=style.css.map */
