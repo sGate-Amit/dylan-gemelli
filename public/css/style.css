@@ -2240,14 +2240,39 @@ Back To Top Section
     margin: 0 0 16px;
     padding: 0;
     font-weight: 700; }
+    .follow{
+      color: #c4a609!important;
+      font-weight: bolder!important;
+      font-size: 25px;
+    }
 @media (max-width: 767px) {
+  .section > .container-fluid, .section > .container {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+.section-heading, .section-heading-events{
+  padding-top: 0px;
+}
   .history-2 .timeline__item .media {
     display: block;
     width: 100%; }
     .history-2 .timeline__item .media img {
       margin-bottom: 20px; }
   .history-2 .timeline__item .aksen {
-    display: none; } }
+    display: none; 
+  
+  }
+.footer .footer-item .footer-sosmed{
+   margin-bottom: 0px!important;
+   margin-top: 0px!important;
+}
+.footer{
+  padding: 20px 0px 0px 0px!important;
+}
+.follow {
+  font-size: 15px!important;
+}
+}
 
 /* 2.12. BOX PARTNERS */
 .box-partner {
