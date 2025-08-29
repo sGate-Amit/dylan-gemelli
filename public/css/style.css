@@ -4228,8 +4228,10 @@ dl.hiw {
     margin-top: 20px; } 
 
 .banner-page > .container{padding-top:10px;
-  padding-bottom: 20px;}	
-	
+  padding-bottom: 20px;}
+
+.logo-remove[data-astro-cid-ntesnurg]{font-size:25px;font-weight:600;}
+.navbar-toggle{right: 0px;position: absolute;}
 	}
 
 /*# sourceMappingURL=style.css.map */
