@@ -36,7 +36,63 @@
 	<link rel="stylesheet" type="text/css" href="../css/style.css" />
 	
     <script type="text/javascript" src="../js/vendor/modernizr.min.js"></script>
-
+<style>
+ .banner .overlay-bg {
+         background-size: cover !important;
+       }
+      .iframe-About {
+           width : 560px;
+           height : 315px;
+      }
+      .nav-menu {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+	 }
+      .navbar-menubar1 {
+          display: flex; align-items: center;
+      }
+     .logo-remove {
+        display:none;
+     }
+     .menubar-logo {
+        color: white;margin-right: 30px;
+     }
+      @media (max-width: 600px) {
+          .iframe-About {
+              width: 100%;
+	  }  
+         .nav-menu {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+	 }
+        .navbar-menubar2 {
+            width: 100%;
+            text-align: center;
+          }
+        .navbar-menubar1{
+            display: none;
+	}
+        .navbar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+	}
+        .navbar-main .nav > li:last-child {
+            width: 100%;
+	}
+.navbar-main .nav > li:last-child {
+   width: 100%;
+}
+.logo-remove {
+        display:block;
+     }
+.menubar-logo {
+   display:none;
+}
+      }
+</style>
 </head>
 
 <body>
