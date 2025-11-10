@@ -3259,12 +3259,12 @@ dl.hiw {
     dl.hiw dd h4, dl.hiw dd .lead, dl.hiw dd .team-2 .title, .team-2 dl.hiw dd .title {
       clear: none; }
 
-.reset-section-heading {
-  margin-top: -30px; }
-
+.reset-section-heading {  margin-top: -30px; }
+.reset-section-heading.new2 {  margin-top:0px; }
+.section-heading.new2{font-size:16px; line-height: 1em; font-weight: 600; color: #333;text-transform: inherit;}
 .jumbolead {
   line-height: 1;
-  margin-bottom: 30px; }
+  margin-bottom: 30px; font-size: 2.5em;}
 
 .vidimg {
   position: relative;
@@ -3663,7 +3663,7 @@ dl.hiw {
   background-color: #212635;
   color: #ffffff; }
   .section.cta .cta-info {
-    width: 60%;
+    width:90%;
     margin: 0 auto;
     text-align: center;
     font-family: "Quicksand", sans-serif; }
@@ -4239,4 +4239,5 @@ dl.hiw {
 	}
 
 /*# sourceMappingURL=style.css.map */
+
 
