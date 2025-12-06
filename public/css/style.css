@@ -3049,8 +3049,8 @@ Back To Top Section
   .navbar-nav > li > a {
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left:8px;
-    padding-right:8px; } }
+    padding-left:6px;
+    padding-right:6px; } }
 .social-icon li {
   list-style: none;
   float: left;
@@ -4239,6 +4239,7 @@ dl.hiw {
 	}
 
 /*# sourceMappingURL=style.css.map */
+
 
 
 
