@@ -2893,6 +2893,8 @@ Back To Top Section
           .topbar .topbar-right .topbar-sosmed li a:hover {
             color: #212635; }
 
+.header-1 .stiky .navbar-nav > li > a{padding-left:5px;  padding-right:5px;}
+
 .topbar-logo {
   background-color: #ffffff;
   padding: 5px 0; }
@@ -4239,6 +4241,7 @@ dl.hiw {
 	}
 
 /*# sourceMappingURL=style.css.map */
+
 
 
 
